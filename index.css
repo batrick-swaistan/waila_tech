@@ -39,7 +39,18 @@ body{
 
 }
 
+
 .row{
     border: none;
     outline:none;
+}
+
+@media screen and (max-width: 390px){
+    .row-job{
+
+        display: flex;
+
+        gap: 2;
+
+    }
 }

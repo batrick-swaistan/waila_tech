@@ -43,7 +43,9 @@ body{
     outline: none;
 }
 
-
+.join-team{
+    padding-top: 50px;
+}
 .row{
     border: none;
     outline:none;

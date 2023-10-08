@@ -39,6 +39,10 @@ body{
 
 }
 
+.navbar-toggler:focus {
+    outline: none;
+}
+
 
 .row{
     border: none;

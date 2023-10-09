@@ -46,9 +46,13 @@ body{
 
 }
 
-.navbar-toggler:focus {
-    outline: none;
+#cen{
+    padding-top: 60px;
 }
+
+.navbar.navbar-expand-lg .navbar-toggler:focus {
+    outline: none !important;
+  }
 
 .join-team{
     padding-top: 50px;
@@ -69,5 +73,8 @@ body{
 
         gap: 2;
 
+    }
+    #cen{
+        padding-top: 0px;
     }
 }

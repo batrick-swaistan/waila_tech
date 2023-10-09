@@ -29,7 +29,7 @@ body{
     color:var(--bg-color);
     background-color: var(--body-color);
 }
-
+r
 
 
 
@@ -37,8 +37,8 @@ body{
     background-color: var(--main-color);
 }
 
-.my-list li{
-    margin-bottom: 15px;
+.my-list p strong{
+    margin-right: 3px;
 }
 
 

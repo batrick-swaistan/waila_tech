@@ -54,6 +54,22 @@ r
 .carousel-item .cen{
     padding-top: 170px;
 }
+.navbar{
+    position: sticky;
+    background-color: var(--body-color);
+}
+
+
+
+
+.navbar-text,
+.navbar-brand,
+.nav-bar-link,
+.nav-link.active{
+    color: var(--bg-color) !important;
+}
+
+
 
 .navbar.navbar-expand-lg .navbar-toggler:focus {
     outline: none !important;
@@ -70,7 +86,11 @@ r
     border: none;
     outline:none;
 }
-
+@media screen and (max-width:768px){
+    .nav-link{
+        text-align: end;
+    }
+}
 @media screen and (max-width:822px){
     .row-job{
 

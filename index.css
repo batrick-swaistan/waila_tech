@@ -86,6 +86,17 @@ r
     border: none;
     outline:none;
 }
+@media (hover:hover){
+    .nav-link:hover{
+
+        color: var(--main-color) !important;
+        
+        transition: 0.3s all linear;
+
+    }
+}
+
+
 @media screen and (max-width:768px){
     .nav-link{
         text-align: end;

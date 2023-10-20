@@ -7,7 +7,7 @@
     <a href="https://waila-tech.vercel.app/" target="_blank">
       Demo 
     </a> |
-    <a href="https://www.waila-tech.com" target="_blank">
+    <a href="https://www.wailatech.com" target="_blank">
       Official Site
     </a>
   </h3>

@@ -4,8 +4,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://my-portfolio-green-sigma-43.vercel.app/" target="_blank">
-      Demo
+    <a href="https://waila-tech.vercel.app/" target="_blank">
+      Demo 
+    </a> |
+    <a href="https://www.waila-tech.com" target="_blank">
+      Official Site |
     </a>
   </h3>
 </div>
@@ -24,7 +27,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/batrick-swaistan/waila-tech/blob/main/wailatech.png)
+![screenshot](https://github.com/batrick-swaistan/waila_tech/blob/main/wailatech.png)
 
 - You can compare the my version of Waila Technology website with the official site by clicking on the official and  Demo. I've hosted my project on vercel.
 - I had a great experience during this project  and have learnt many new things about Bootstrap framework.

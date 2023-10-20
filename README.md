@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Batrick Swaistan -Portfolio</h1>
+<h1 align="center">Waila Technology</h1>
 
 <div align="center">
   <h3>
@@ -8,7 +8,7 @@
       Demo 
     </a> |
     <a href="https://www.waila-tech.com" target="_blank">
-      Official Site |
+      Official Site
     </a>
   </h3>
 </div>
